@@ -9,6 +9,7 @@ permalink: /getting-started/
 
 ### Step 2) New User training by RC
 Access training [here](https://help.rc.ufl.edu/doc/New_user_training)
+
 [HiPergator etiquettes](https://help.rc.ufl.edu/doc/HPG_Computation)
 
 ### Step 3) Orientation by ARCS Team member
