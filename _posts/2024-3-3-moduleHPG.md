@@ -5,8 +5,6 @@ categories: [hipergator, bash, running jobs, modules]
 ---
 
 
-Modules on HiPerGator
------- 
 The tutorial available on UFRC website does a pretty good job explaining how to load a software for running jobs on the cluster.  
 [Click here for Module Tutorial by UFRC](https://help.rc.ufl.edu/doc/Modules_Basic_Usage) 
 After you have loaded the list of modules you want to load, you can save the modules to a default list by,
