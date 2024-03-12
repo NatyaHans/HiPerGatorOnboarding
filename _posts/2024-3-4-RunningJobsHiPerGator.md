@@ -4,10 +4,12 @@ title: Running
 categories: [hipergator, bash, running jobs]
 ---
 
+
+HiPerGator works on Slurm (Simple Linux Utility for Resource Management) scheduler for scheduling scripts for computation. 
+But let's break down the sample bash script line by line , which you can [download here](http://NatyaHans.github.io/files/slurm_4_tania_raxml.sh)
+
 Breakdown of Slurm Script
 ------
-HiPerGator works on Slurm(Simple Linux Utility for Resource Management) scheduler for scheduling scripts for computation. 
-But let's break down the sample bash script line by line , which you can [download here](http://NatyaHans.github.io/files/slurm_4_tania_raxml.sh)
 
 `#!/bin/sh`: Important first line that informs it is a shell script.  
 
