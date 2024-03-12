@@ -4,26 +4,18 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+[HiPerGator](https://www.rc.ufl.edu/about/hipergator/) is University of Florida's supercomputer. It is a cluster that has 
+latest generation of processors offering several nodes for memory-intensive computation.
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+[ARCS](https://arcs.uflib.ufl.edu/) department within the [George A. Smathers Libraries](https://uflib.ufl.edu/) and [UF Research Computing](https://www.rc.ufl.edu/) have partnered to provide HiPerGator and HiPerGator-RV (formerly ResVault) access to students who do not have funding for such access.
 
-## Features
+To apply, please complete and submit the following [access form](https://arcs.uflib.ufl.edu/student-hipergator-request/), and one of our Library Consultants will contact you to set up a meeting.
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+## Library HiPerGator Team
+- Joseph Aufsmuth
+- Natya Hans
+- Aida Miro-Herrans
+- Carl Moritz
+- Borui Zhang
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+
