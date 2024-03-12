@@ -5,12 +5,14 @@ categories: [HiPerGator,bash, linux, windows]
 ---
 
 If this is your first time using the cluster, I would advice to learn some basic bash scripting. Navigating your way through different directories and cluster would be a lot easier with basic bash commands such as
-pwd,cd, mkdir, ls 
+pwd,cd, mkdir, ls. Please check the bash scripting [tutorials here]()
 
 
 Creating Account on Hipergator
 ------
-To use the HiPerGator, you first need to have an account with UF research computing. To request an account, [submit the request here](https://www.rc.ufl.edu/access/account-request/)
+To use the HiPerGator, you first need to have an account with UF research computing. To request an account with Library HiPerGator Sponsorship Program, [submit the request here](https://arcs.uflib.ufl.edu/services/student-hipergator-access/). 
+
+You can also request an account with research computing if/when you have funding by [submitting request here](https://www.rc.ufl.edu/access/account-request/)
 
 
 Login to the HiPerGator
@@ -28,16 +30,17 @@ For PuTTy,
 
 If on Mac, open Terminal window, type
 
-```console
+```
 ssh USERNAME@hpg.rc.ufl.edu
 ```
 
-Replace USERNAME with your username. Enter the password when prompted. You should be connected to the HiPerGator.
+Replace USERNAME with your username. Your USERNAME is your GATORLINK ID. Enter the password when prompted. You should be connected to the HiPerGator.
+
 
 Logging off from the HiPerGator
 ------
 To log off from the HiPerGator, type in the terminal,
    
-```console
+```
 exit
 ```
