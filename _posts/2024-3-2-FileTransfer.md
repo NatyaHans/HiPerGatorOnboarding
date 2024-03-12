@@ -4,10 +4,11 @@ title:  Transferring files to the cluster (HiPerGator)
 categories: [HiPerGator,bash, linux, windows]
 ---
 
+Navigating your way through the cluster is helpful if you learn basic bash scripting. 
 
 Navigating your way on the cluster
 ------
-Now that you are on the cluster, let us learn some basic commands to navigate your way.First  you need to know your location on the cluster. Type:
+Now that you are on the cluster, let us learn some basic commands to navigate your way. First  you need to know your location on the cluster. Type:
 
     pwd
 
