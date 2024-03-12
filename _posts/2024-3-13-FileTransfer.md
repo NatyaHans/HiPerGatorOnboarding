@@ -1,4 +1,8 @@
-
+---
+layout: post
+title:  Transferring files to the cluster (HiPerGator) 
+categories: [HiPerGator,bash, linux, windows]
+---
 
 
 Navigating your way on the cluster
