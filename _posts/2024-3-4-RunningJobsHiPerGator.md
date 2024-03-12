@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Running 
+title: Running jobs on HiPerGator
 categories: [hipergator, bash, running jobs]
 ---
 
