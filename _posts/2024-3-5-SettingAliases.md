@@ -24,37 +24,37 @@ After you open, edit and close the file make sure you source the .bashrc
     source .bashrc
 
 
-# My favorite Aliases
+## My favorite Aliases
 Alias command in linux can be used to create shortcuts for commands you mostly use. Make sure that you start with alias command and then add a space between the word/combination you would like to use as command. Use a "=" sign and double quotes of the command you want to set up as alias.
 Make sure there is no space between the your substitute word,= sign and quotes. 
 
 
-This is a great way for finding out what is taking so much space on your drives!
-------
+### 1) This is a great way for finding out what is taking so much space on your drives!
+
 
     alias diskspace="du -S | sort -n -r |more"
     
 
-Show me the size (sorted) of only the folders in this directory
-------
+### 2) Show me the size (sorted) of only the folders in this directory
+
 
     alias folders="find . -maxdepth 1 -type d -print | xargs du -sk | sort -rn"
 
 
-List by line in reverse time order
-------
+### 3) List by line in reverse time order
+
 
     alias lsr="ls -ltr";
 
 
-Naming working directories
-------
+### 4) Naming working directories
+
 
     alias gbird="cd /ufrc/burleigh/nhans/Cloning_Github/BigBird";
     
 
-Git related alias added
-------
+### 5) Git related alias added
+
 
     alias gs='git status';
     alias gc='git commit';
@@ -67,7 +67,7 @@ Git related alias added
 Don't forget to source the .bashrc after you have, copied and pasted the above Aliases
 
 
-# Function to extract compressed files
+### 6) Function to extract compressed files
 
 Copy the following to the .bashrc file. This should extract any file  with the following extensions.
 
@@ -98,7 +98,7 @@ Copy the following to the .bashrc file. This should extract any file  with the f
     extract samplecompressedfolder.tar.gz
 
 
-# Function to compress a folder or files to tar.gz 
+### 7) Function to compress a folder or files to tar.gz 
 
 Copy the following to the .bashrc file. This should compress any file or folder to tar.gz format.
 
@@ -128,7 +128,7 @@ Copy the following to the .bashrc file. This should compress any file or folder 
 should give you a compressed folder `samplefoldertobecompressed.tar.gz`
 
 
-# Function to go up when you have multiple subdirectories
+### 8) Function to go up when you have multiple subdirectories
 
 
      # NH function to go up in a directory 
@@ -151,7 +151,7 @@ should give you a compressed folder `samplefoldertobecompressed.tar.gz`
      up 4 
 
 
-# To find empty files 
+### 9) To find empty files 
 
 
     findzero() {
@@ -168,7 +168,7 @@ should give you a compressed folder `samplefoldertobecompressed.tar.gz`
 Here txt can be replaced by the file extension of your choice.     
  
      
-# To make a new directory and change into the directory  
+### 10) To make a new directory and change into the directory  
 
 
     # NH function to mkdir and cd into it
