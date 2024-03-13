@@ -18,4 +18,4 @@ To apply, please complete and submit the following [access form](https://arcs.uf
 - Carl Moritz
 - Borui Zhang
 
-
+![HiPerGatorTeam](https://github.com/NatyaHans/HiPerGatorOnboarding/blob/master/images/Slide1.jpg)
