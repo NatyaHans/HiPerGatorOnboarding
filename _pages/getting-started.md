@@ -22,7 +22,7 @@ Bash Scripting tutorial [here]()
 
 More [slurm documentation](https://slurm.schedmd.com/documentation.html)
 
-### Step 6) Sunset interview
+## Step 6) Sunset interview
 
 
 
