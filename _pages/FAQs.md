@@ -4,7 +4,8 @@ title: FAQs
 permalink: /faqs/
 ---
 
-_**Question:** _ Where should I store my files and scripts?
+
+_**Question:**_ Where should I store my files and scripts?
 
 _**Answer:**_ It should be under /blue/rcstudents/USERNAME. where USERNAME is your GATORLINK ID
 
