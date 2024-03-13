@@ -5,11 +5,16 @@ permalink: /faqs/
 ---
 
 
-_**Question:**_ Where should I store my files and scripts?
+_**Q1:**_ Where should I store my files and scripts?
 
-_**Answer:**_ It should be under /blue/rcstudents/USERNAME. where USERNAME is your GATORLINK ID
+_**A:**_ It should be under /blue/rcstudents/USERNAME. where USERNAME is your GATORLINK ID
 
 
-_**Question:**_ How many GPUs can I request?
+_**Q2:**_ How many CPUS and GPUs can I request?
 
-_**Answer:**_ 4 cores 
+_**A:**_ 4 CPUs and 2 GPUs
+
+
+_**Q3:**_ How much storage can I request?
+
+_**A:**_ 
