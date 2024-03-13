@@ -7,19 +7,10 @@ categories: [hipergator, bash, running jobs]
 Setting up Aliases in linux and unix makes life a lot easier. You can choose your own commands and shortcuts to commands you commonly use a lot and save time.
 Another way to make life easier is to set up SSH keys so you won't be asked for a password everytime you login to the server.
 
-
-I am going to share some aliases that I use and have added in the .bashrc file (both at my local computer and the HiPerGator). 
-I will update this blog if I think of more.
-
-A Note on text editors
-------
-I have been using the vim editor for 8 years now, and while some people argue that it is a non intuitive way of editing files,
-and to me it is muscle memory at this point. You can use any text editor that you are comfortable with (notepad, textedit, nano etc) to open and edit files.
-If you do want to learn VI, there is an awesome cheat sheet for [beginner](http://NatyaHans.github.io/files/vi_cheat_sheet.pdf) and when you are more comfortable with it check out the [advanced commands here](https://stac47.github.io/vim/cheat/sheet/2014/02/22/vim-advanced-cheat-sheet.html).
-Also some [pretty cool VI stuff here](http://vimsheet.com/advanced.html)
+I am going to share some aliases that I use and have added in the .bashrc file (both at my local computer and the HiPerGator). If you are using the newer versions of mac, the default shell is Z shell, so you should add the aliases in .zshrc
 
 
-Accessing the .bashrc file
+Accessing the .bashrc file ( or .zshrc ) 
 ------
 The .bashrc file is located in the home directory on your local machine. The location for home directory on my mac is:
 `/Users/nhans`, 
