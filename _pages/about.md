@@ -13,5 +13,7 @@ To apply, please complete and submit the following [access form](https://arcs.uf
 
 ## Library HiPerGator Team
 ![HiPerGatorTeam](https://github.com/NatyaHans/HiPerGatorOnboarding/blob/master/images/Slide1.jpg)
+
 Row 1: Left to Right: Aida Miro Herrans, Borui Zhang, Natya Hans
+
 Row 2: Left to Right: Joe Aufsmuth, Carl Moritz
