@@ -12,10 +12,4 @@ latest generation of processors offering several nodes for memory-intensive comp
 To apply, please complete and submit the following [access form](https://arcs.uflib.ufl.edu/student-hipergator-request/), and one of our Library Consultants will contact you to set up a meeting.
 
 ## Library HiPerGator Team
-- Joseph Aufsmuth
-- Natya Hans
-- Aida Miro-Herrans
-- Carl Moritz
-- Borui Zhang
-
 ![HiPerGatorTeam](https://github.com/NatyaHans/HiPerGatorOnboarding/blob/master/images/Slide1.jpg)
