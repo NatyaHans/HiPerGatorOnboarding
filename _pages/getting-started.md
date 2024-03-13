@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Getting started with Sponsorship Program
 permalink: /getting-started/
 ---
