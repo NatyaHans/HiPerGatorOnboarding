@@ -99,5 +99,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-  - /_pages/getting-started.md
-
