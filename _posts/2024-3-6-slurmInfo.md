@@ -1,5 +1,5 @@
 ---
 layout: post
-title: Setting up Aliases
+title: Getting partition info from Slurm
 categories: [hipergator, bash, running jobs]
 ---
